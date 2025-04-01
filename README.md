@@ -1,14 +1,14 @@
 Hi 👋 My name is Austin Driver
 ==============================
 
-Full Stack Software Engineer
+Software Development Engineer | API Development | Mobile Development
 ----------------------------
 
-Software Development Graduate from Grand Canyon University. I am currently working as a Software Engineer intern at Hawaiian Airlines in Tempe, AZ.
+Software Development Graduate from Grand Canyon University. I work as a Software Development Engineer at Hawaiian Airlines
 
 * 🌍  I'm based in Phoenix, AZ
 * ✉️  You can contact me at [Austintdriver@gmail.com](mailto:Austintdriver@gmail.com)
-* 🧠  I'm learning Full stack Engineering, Application Programming Interfaces, and large team colabortion
+* 🧠  Here on GitHub, I develop full-stack applications utilizing industry standards and testing practices
 
 ### Skills
 
